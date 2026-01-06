@@ -8,9 +8,7 @@ The dataset includes ratings on a 1–5 scale, where 1 = Very Dissatisfied and 5
 After data cleaning and visualization, the analysis revealed trends that highlight both strong performance areas and opportunities for improvement.
 
 ## Tools Used
-- Microsoft Excel → Data cleaning and preparation
-- Python (Pandas, Matplotlib, Seaborn) → Data analysis and visualization
-- Power BI / Excel Charts → Dashboard creation for better insight presentation
+- Python (Pandas, Matplotlib, Seaborn) → Data Cleaning, Data analysis ,and visualization
 
 ##  Insights 
 - Average satisfaction rating: 4.0 out of 5 → indicates overall positive student experience
