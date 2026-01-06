@@ -1,5 +1,7 @@
 # FUTURE_DS_03
 # Student Satisfaction Survey Analysis
+<img width="1403" height="752" alt="Screenshot 2026-01-06 221420" src="https://github.com/user-attachments/assets/a26254c0-6a0d-41d7-8a85-1b045ad989dd" />
+
 ## Introduction
 This report presents a comprehensive analysis of student feedback collected via the Student Satisfaction Survey. The objective of this analysis is to evaluate the quality of the educational experience, identify key drivers of student satisfaction, and pinpoint specific areas for institutional improvement.
 The dataset includes ratings on a 1–5 scale, where 1 = Very Dissatisfied and 5 = Very Satisfied.
